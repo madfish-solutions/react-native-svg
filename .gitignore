@@ -45,7 +45,8 @@ cn-doc.md
 #
 experimental/
 
-/lib/
+# TODO: find another way to integrate the module into templewallet-mobile
+# /lib/
 /flow-typed/
 
 # VS Code
